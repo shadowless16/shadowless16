@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm [Ak David!](https://hemant.codes) 👋.  <img src="https://raw.githubusercontent.com/shadowless16/shadowless16/master/svg/pronouns/hehim.svg" >
+### Hi there, I'm [Ak David!](https://) 👋.  <img src="https://raw.githubusercontent.com/shadowless16/shadowless16/master/svg/pronouns/hehim.svg" >
 
 
 <br/>
 <a href="https://twitter.com/shadowless16">
-  <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Ak David| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/hemant-j-85518a195/">
+<a href="https://www.linkedin.com/in/david-akinwumi-003019323/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/ihemantjoshi">
@@ -31,16 +31,8 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/hemant.gz/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.reddit.com/user//">
-  <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-<a href="https://leetcode.com//">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://www.codechef.com/users/hemant_x">
-  <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
 
+</a>
 ![](https://visitor-badge.glitch.me/badge?page_id=shadowless16.shadowless16)
 
 <br />
@@ -49,7 +41,7 @@ Here are some ideas to get you started:
 <br />
 
 ### Hi 🙋‍♂️,
-### I'm 17 years old Self-taught Front-End developer.
+### I'm 18 years old Self-taught Front-End developer.
 
 
 #### - 🥀 Learning HTML  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/HTML/HTML.png"></code>,NextJs <code> <img height="20" width="16" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"> </code> &Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>.
