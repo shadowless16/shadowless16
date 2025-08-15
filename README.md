@@ -1,114 +1,102 @@
 <h1 align="center">
-Hi, I'm Ak David!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+  Hi, I'm Ak David! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
 
- <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/shadowless16"> </a> 
-<br/>
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Junior+Fontend+Developer;Freelancer;DSA%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <img src="https://gpvc.arturio.dev/shadowless16" alt="Profile views"/>
 </p>
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
-<hr>
-
-```
-shadowless@github
--------------------------
-💻 I am a self taught Frontend Developer
-📚 I have a certifed in Python, Web Design (Wordpress), Grapics Desing (Canva) from New Horizon
-📝 I have a strong interest in Web Dev and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Currently Learning Backend
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Development
-💖 Interested in IT related content
-🎵 Love metal, lofi, jazz and soft music
-```
-<hr>
-
-
-## 🛠️ My Favorite Tools
-
-### 👨‍💻 Programming Languages
-
-<p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-
-### 🧰 Frameworks and Libraries
-
-<p>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Backend+Developer;Fullstack+Enthusiast;Project+Founder+%26+Team+Lead;Always%20Learning%20New%20Things&center=true&width=450&height=45">
+  </a>
 </p>
 
-### 🗄️ Databases and Cloud Hosting
+---
 
-<p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+Hey there! 👋 I’m **Ak David**, a **Software Engineering student at NIIT, Lagos** passionate about building real-world tech solutions.  
+I specialize in **backend development**, but I also design frontends, structure databases, and integrate advanced features like **AI** and **blockchain** when the project calls for it.
+
+I’m the **founder & lead developer** of:
+
+---
+
+### 🚀 **GistHub (Gistop)** – [Live Demo](#) | [Repo](#)
+A fast, mobile-friendly social platform for students with anonymous posting, branch-specific feeds, moderation tools, and gamification.  
+**Tech:** Next.js 14, TypeScript, MongoDB, Tailwind CSS, JWT, WebSockets  
+<p align="center">
+  <img src="image_link_here" alt="GistHub screenshot" width="600">
 </p>
 
-### 💻 Software and Tools
+---
 
-<p>
-    <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+### 🌐 **DevSocial** – [Live Demo](#) | [Repo](#)
+A real-time gamified platform for developers & tech enthusiasts with XP-based reputation, live chat, project sharing, and blockchain proof-of-ownership.  
+**Tech:** Next.js 14, WebSockets, MongoDB, Hedera Hashgraph, Tailwind CSS  
+<p align="center">
+  <img src="image_link_here" alt="DevSocial screenshot" width="600">
 </p>
 
-<!-- ### 👨🏽‍💻 Workspace
-<p>
-    <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+---
+
+### 🛡 **MAGEN** – [Repo](#)
+A personal data leak detector that scans public & dark web sources for compromised personal information like emails, passwords, and phone numbers.  
+**Tech:** Python, API Integration, Web Scraping  
+<p align="center">
+  <img src="image_link_here" alt="MAGEN screenshot" width="600">
 </p>
--->
 
-## GitHub Stats
+---
 
+### 📋 **Online Clearance System** – [Repo](#)
+A mobile-friendly web app that replaces manual clearance for final-year students with a secure, automated system.  
+**Tech:** HTML, CSS, JavaScript, Python Backend  
+<p align="center">
+  <img src="image_link_here" alt="Clearance System screenshot" width="600">
+</p>
 
-|                                                                     Vishal's Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Ak David 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=shadowless16&theme=react-dark&hide_border=true&area=true) |
-| ![Ak David github stats](https://github-readme-stats.vercel.app/api?username=Shadowless16&show_icons=true&theme=algolia)              | 
-| ![Ak David GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shadowless16&theme=algolia)                    | 
-    
+---
 
-|                                                                                                      Ak David Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=shadowless16&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowless16&langs_count=8&theme=algolia&layout=compact) |
+## 🛠 My Tech Stack
 
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC.svg?logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
+</p>
 
+---
 
+## 📊 My GitHub Stats
 
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shadowless16&show_icons=true&theme=algolia" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowless16&layout=compact&theme=algolia" height="165">
+</p>
 
-## Let's Work on Your Project Together!
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shadowless16&theme=algolia">
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shadowless16&theme=react-dark&hide_border=true&area=true">
+</p>
 
-## It's not perfect, isn't it?
+---
 
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
+💬 **Let’s Collaborate** – If you’re working on something exciting in **EdTech**, **AI**, **Blockchain**, or **Social Platforms**, I’m open to partnerships, freelance work, and community-driven builds.
 
-“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-– Elon Musk
+📫 **Reach Me At**:  
+- GitHub: [@shadowless16](https://github.com/shadowless16)  
+- Email: **akdavid4real@gmail.com**  
 
-  </td>
-  </tr>
-</table>
+---
 
-------
-Credits: [Ak David](https://github.com/shadowless16)
-Last Edited On: 07/09/2024
-
-
-
+**Last Edited:** 15/08/2025  
+*Designed & Maintained by [Ak David](https://github.com/shadowless16)*  
